@@ -10,6 +10,11 @@ The AI-Powered Personal Chef is an innovative project designed to simplify your 
 - Nutritional analysis via external APIs.
 - Meal planning with clustering algorithms (K-Means).
 
+## Repository Information
+- **Repository Name:** MACHINE-LEARNING-AND-ITS-APPLICATIONS-MAT3123.01-00-Final
+- **Author:** 2020147517
+- **Main Python Script:** `personalchef.py`
+
 ## Features
 - **Ingredient Recognition:**
   - Automatically detects ingredients from a photo of your fridge, pantry, or countertop using a computer vision model (MobileNetV2).
@@ -31,8 +36,8 @@ Before running the project, ensure you have the following installed:
 ## Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ai-powered-personal-chef.git
-   cd ai-powered-personal-chef
+   git clone https://github.com/2020147517/MACHINE-LEARNING-AND-ITS-APPLICATIONS-MAT3123.01-00-Final.git
+   cd MACHINE-LEARNING-AND-ITS-APPLICATIONS-MAT3123.01-00-Final
    ```
 
 2. **Install Dependencies:**
@@ -49,7 +54,7 @@ Before running the project, ensure you have the following installed:
 1. **Run the Script:**
    Execute the main script to start the application:
    ```bash
-   python app.py
+   python personalchef.py
    ```
 
 2. **Provide Input:**
@@ -110,4 +115,9 @@ Before running the project, ensure you have the following installed:
 - **Meal Planning:**
   - K-Means clustering groups similar recipes to recommend balanced meal plans.
 
+
+
+
+## Contact
+For questions or suggestions, please contact shyim40@yonsei.ac.kr.
 
