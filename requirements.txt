@@ -1,0 +1,5 @@
+tensorflow
+numpy
+transformers
+scikit-learn
+requests
